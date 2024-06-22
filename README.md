@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi, I’m @Viratcabal
+- 👀 I’m interested in oceanography and modelization
+- 🌱 I’m currently learning R and Python.
+- 💞️ I’m looking to collaborate on : X
+- 📫 How to reach me : X
 
 <!--
 **Viratcabal/Viratcabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
